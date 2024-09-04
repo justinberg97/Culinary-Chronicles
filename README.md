@@ -35,3 +35,7 @@ Additionally, you will style this page to ensure that it entices users to read a
 - Give your page a background image
 - Create a navigation bar at the top of your page. Style this navigation bar using CSS.
 - Check out pseudo-elements like `::before` and `::after` to try to animate your links.
+// links
+https://downshiftology.com/recipes/chicken-fajitas/ (fajitas)
+red wine recipe https://www.spendwithpennies.com/beef-stew-recipe/
+pasta https://www.modernhoney.com/fettuccine-alfredo/
